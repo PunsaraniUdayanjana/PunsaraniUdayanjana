@@ -1,4 +1,5 @@
-![git](https://github.com/PunsaraniUdayanjana/README.md/assets/96907464/616b53e9-4631-42b1-aa1c-fce4d8fb8141)
+
+![git](https://github.com/PunsaraniUdayanjana/PunsaraniUdayanjana/assets/96907464/1ce930d9-8eed-4009-bd58-abe46d7d228c)
 
 <h1 align="center">Bachelor of Software Engineering Honors</h1>
 <p align="center" > The Open University of Sri Lanka </p>
