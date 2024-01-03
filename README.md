@@ -1,8 +1,7 @@
 
 ![git](https://github.com/PunsaraniUdayanjana/PunsaraniUdayanjana/assets/96907464/1ce930d9-8eed-4009-bd58-abe46d7d228c)
 
-<h1 align="center">Bachelor of Software Engineering Honors</h1>
-<p align="center" > The Open University of Sri Lanka </p>
+<h1 align="center">Hi 👋, I'm Punsarani Udayanjana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punsaraniudayanjana&label=Profile%20views&color=0e75b6&style=flat" alt="punsaraniudayanjana" /> </p>
 
 - 🌱 I’m currently learning **Web and Mobile Application Development**
